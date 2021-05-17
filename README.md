@@ -1,7 +1,7 @@
 # Scorekeeper
 A web application using HTML, CSS, Javascript to take track of score.
 
-##Getting Started
+## Getting Started
 * Create the essential files
 * Needed Bootstrap
 
